@@ -1,4 +1,4 @@
-# Smart Email Assistant
+# Email Reply Generator
 
 A web application and browser extension that generates smart, context-aware email replies with configurable tones using the **Google Gemini API**.
 
